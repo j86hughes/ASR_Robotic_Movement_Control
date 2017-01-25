@@ -1,0 +1,82 @@
+
+This is a guide to all files submitted for the corpus.
+
+List of folders and their contents:
+
+ASR Video Demo:
+
+	-	Video file demonstrating the ASR system controlling the Lego robot
+ 
+Diagrams and documentation:
+
+	-	Activity diagram for the ASR system with robotic movement control
+	-	System overview
+
+Matlab Files:
+
+	-	Main Matlab files developed for this project:
+	
+		o	ASR_add_noise_no_denoise
+		o	ASR_MFCC_DTW_clean_testing
+		o	ASR_MFCC_noise_subtraction_testing
+		o	ASR_MFCC_noise_subtraction_testing2
+		o	ASR_MFCC_noise_threshold_testing
+		o	ASR_robot_demo
+		
+	-	Functions folder containing matlab function files used 
+	
+		o	Addnoise2
+		o	dtw
+		o	dtw_c.c
+		o	dtw_c
+		o	f2mel
+		o	getMFCC
+		o	mel2f
+		o	MFCCinfRem
+		o	MFCCnAdd_thresh
+		o	MFCCnAddnRem
+		o	MFCCnRem
+		o	Spread_mel
+		
+Noise Files:
+
+	-	Noise files used for noise testing
+		
+Synth Voice Files:
+
+	-	Synth voice files used for command recognition confirmation
+		
+Test Results:
+
+	-	Excel spreadsheet file containing all the test results data
+	
+Training Data:
+
+	-	Training command files recorded from an adult male speaker 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
